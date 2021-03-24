@@ -1,5 +1,3 @@
-# HP-MP
-GURU2 ios
 # HP & MP
  *서울여자대학교 2020 겨울방학 GURU2*
  <br>
